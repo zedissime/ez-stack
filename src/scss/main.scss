@@ -1,0 +1,20 @@
+/* ==========================================================================
+   All includes for the app
+   ========================================================================== */
+
+/*
+   Foundation import
+   ========================================================================== */
+
+@import "../bower_components/foundation/scss/foundation";
+
+/*
+   Application import
+   ========================================================================== */
+
+@import "base/all-base";
+@import "components/all-components";
+@import "helpers/all-helpers";
+@import "layout/all-layout";
+@import "pages/all-pages";
+@import "vendor/all-vendor";
